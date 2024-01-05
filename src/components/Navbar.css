@@ -1,0 +1,41 @@
+.navbarContainer {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  height: 10vh;
+  background-color: transparent;
+  position: fixed;
+  top: -35px;
+  z-index: 999;
+  font-color: white;
+  width: 85vw;
+}
+.leftNav {
+  width: 25vw;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0 1rem;
+  font-family: 'Roboto', sans-serif;
+  font-size: 14px;
+  font-weight: 600;
+  color: white;
+}
+
+.rightNav {
+  width: 25vw;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0 1rem;
+  font-family: 'Roboto', sans-serif;
+  font-size: 14px;
+  font-weight: 600;
+  color: white;
+}
+.centerNav {
+  align-items: top;
+}
+.logo {
+  width: 25vw;
+}

@@ -1,0 +1,18 @@
+:root {
+  --blackish-green: rgba(17, 34, 17, 1);
+  --medium-14-px-font-family: 'Manrope-Medium', Helvetica;
+  --medium-14-px-font-size: 14px;
+  --medium-14-px-font-style: normal;
+  --medium-14-px-font-weight: 500;
+  --medium-14-px-letter-spacing: 0px;
+  --medium-14-px-line-height: normal;
+  --montserrat-semibold-14px-font-family: 'Montserrat-SemiBold', Helvetica;
+  --montserrat-semibold-14px-font-size: 14px;
+  --montserrat-semibold-14px-font-style: normal;
+  --montserrat-semibold-14px-font-weight: 600;
+  --montserrat-semibold-14px-letter-spacing: 0px;
+  --montserrat-semibold-14px-line-height: normal;
+  --neutrals: rgba(255, 255, 255, 1);
+  --neutralswhite: rgba(255, 255, 255, 1);
+  --orange-rangeorange-90: rgba(255, 121, 0, 1);
+}

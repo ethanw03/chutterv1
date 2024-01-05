@@ -1,0 +1,10 @@
+.heroContainer {
+  display: flex;
+  width: 98.5vw;
+  justify-content: center;
+}
+
+.hero {
+  width: 96.5vw;
+  overflow: hidden;
+}
